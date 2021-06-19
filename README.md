@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### Hello World 👋
 I am a fullstack software engineer from bangladesh 
 
